@@ -111,3 +111,15 @@ Subscriptions are becoming less relevant for AI-native businesses.
 - **Solo unicorns:** Likely **2026–2028**
 
 Never before could one person build something worth $1B — until now.
+
+---
+
+## 10. Agent Blueprints
+Detailed guides for building the specialized agents that run your company:
+- [Engineering Agent](agents/engineering.md)
+- [Design Agent](agents/design.md)
+- [Marketing Agent](agents/marketing.md)
+- [Sales Agent](agents/sales.md)
+- [Support Agent](agents/support.md)
+
+Start by deploying a single agent on a narrow task, capture feedback, and expand automation over time.
